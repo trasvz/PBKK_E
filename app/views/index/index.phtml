@@ -1,8 +1,8 @@
 <?php
-
+    // echo 'hai';
     $db = $this->getDI()->get('db');
 
-    $sql = "SELECT * from Users";
+    $sql = "SELECT * FROM Pengguna";
 
     $result = $db->fetchOne($sql, \Phalcon\Db\Enum::FETCH_ASSOC);
 
