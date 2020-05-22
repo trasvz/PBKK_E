@@ -6,10 +6,10 @@
 <img src="/pic/Transaksi.png">
 <br>
 <h3>Terdapat Halaman Menambah Pengguna Baru
-<img src="/pic/Tambah_pengguna.png">
+<img src="/pic/Tambahpengguna.png">
 <br>
 <h3>Terdapat Halaman Untuk melihat daftar pengguna
 <img src="/pic/Pengguna.png">
 <br>
 <h3>Terdapat Halaman Untuk melakukan Transaksi
-<img src="/pic/Tambah_Transaksi.png">
+<img src="/pic/Tambahtransaksi.png">
